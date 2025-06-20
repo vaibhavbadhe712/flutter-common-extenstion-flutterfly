@@ -1,9 +1,9 @@
 name: flutter_common_extensions_flutterfly
 description: A comprehensive collection of useful Flutter extensions for everyday development. Includes extensions for Widget, String, DateTime, Color, List, Duration and more.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/yourusername/flutter_common_extensions
-repository: https://github.com/yourusername/flutter_common_extensions
-issue_tracker: https://github.com/yourusername/flutter_common_extensions/issues
+repository: https://github.com/vaibhavbadhe712/flutter-common-extenstion-flutterfly
+issue_tracker: https://github.com/vaibhavbadhe712/flutter-common-extenstion-flutterfly
 
 environment:
   sdk: ^3.5.3
